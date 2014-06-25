@@ -1,0 +1,18 @@
+strike icon - 0 value
+
+on 0 value, prompt ' strikeout!' guiText
+
+
+
+Add baseball themed icons
+Add GUIButton linked from slotScene to mainMenu
+Add onGUITouch to onGUIClick
+Add win state/ lose state
+Add baseball themed sounds
+Microtransactions
+Polish values
+Figure out screen orientation
+	Only vertical?
+	Only horizontal?
+	Can rotate from vertical to horizontal?
+		(Try compiling build w/ default rotation)
